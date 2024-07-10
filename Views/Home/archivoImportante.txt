@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 andamos jalando pero no terminess
 apoco si campeon 
 
 a
+=======
+andamos jalando pero no terminess
+>>>>>>> Stashed changes
